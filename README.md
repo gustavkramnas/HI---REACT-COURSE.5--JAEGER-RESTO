@@ -13,7 +13,8 @@
 -Know how to publishing websites
 -Learn teamwork Using github organizations
 
-😬 Description: welcome to Jaeger-Resto, an app where you can "order" food. A single-page application made with react.js and node.js.
+😬 Description: welcome to Jaeger-Resto, an app where you can "order" food. A single-page application made with react.js and node.js. 
+** ONLY FOR DESKTOP **
 
 📘 Learnings:  JSX / more CSS / NODE.js / REACT.js / FIGMA / 3RD PARTIES LIBARIES (bootstrap) / NODE PACKAGE MANAGER (npm)
 
